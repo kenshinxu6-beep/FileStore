@@ -56,7 +56,7 @@ MESSAGES = {
         "⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪs ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>"
     ),
     "START_PHOTO": "https://i.ibb.co/7d40j3xx/x.jpg",
-    "FSUB_PHOTO":  "https://i.ibb.co/pSQSKxV/x.jpg",
+    "FSUB_PHOTO":  "https://i.ibb.co/KjWFkRVC/x.jpg",
     "SHORT_PIC":   "https://i.ibb.co/vC17k1rY/x.jpg",
     "SHORT":       "https://i.ibb.co/67whTdy5/x.jpg",
 }
